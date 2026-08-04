@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Katelyn 👋
 
-<!--
-**katearothney/katearothney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on making AI safer. I think the details matter more than the declarations. It is easy to say a system is safe. It is harder to show that it behaves the way you claim, especially in the messy cases, and especially once it is out in the world.
 
-Here are some ideas to get you started:
+For 11 years I've worked in product marketing and product management, all in AI, at Microsoft and IBM. Today, at **Microsoft Foundry**, I work alongside the Responsible AI PM team and the Office of Responsible AI. I care about safety across product, research, and policy, and about the effects AI has off the platform, in people's actual lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of what interests me lives in the gap between what an AI system is supposed to do and what it actually does. I try to close that gap by building small, testable tools, and by sharing them openly so other people can use them, check them, and make them better.
+
+I am still learning, and I would rather be useful than certain.
+
+## 🛠️ Building
+- **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules. Meant to help people investigate and get oriented. It is not a compliance guarantee, and not legal advice.
+
+## 🤝 Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katelyn%20Rothney-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katelynrothney/)
+[![GitHub](https://img.shields.io/badge/GitHub-katearothney-181717?logo=github&logoColor=white)](https://github.com/katearothney)
+
+*All thoughts and projects here are my own.*
