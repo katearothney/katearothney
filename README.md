@@ -5,7 +5,10 @@ I work on making AI safer. I think the details matter more than the declarations
 For 11 years I've worked in product marketing and product management, all in AI, at Microsoft and IBM. Today, at **Microsoft Foundry**, I work alongside the Responsible AI PM team and the Office of Responsible AI. I care about safety across product, research, and policy, and about the effects AI has off the platform, in people's actual lives.
 
 ## 🛠️ Building
+**AI Safety**
 - **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules. Meant to help people investigate and get oriented. It is not a compliance guarantee, and not legal advice.
+
+**Product Marketing**
 
 ## 🤝 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katelyn%20Rothney-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katelynrothney/)
