@@ -6,7 +6,7 @@ At **Microsoft Foundry** I work alongside the Responsible AI PM team and the Off
 
 ## 🛠️ Personal Building Projects
 **AI Safety**
-- **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules. Meant to help people investigate and get oriented. It is not a compliance guarantee, and not legal advice.
+- **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules. 
 
 **Product Marketing**
 
