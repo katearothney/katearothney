@@ -1,13 +1,8 @@
 # Hi, I'm Katelyn 👋
 
-**Product Marketer at Microsoft**
-**I work on making AI safer.** I think the details matter more than the declarations. It is easy to say a system is safe. It is harder to show that it behaves the way you claim, especially in the messy cases, and especially once it is out in the world.
+I work on making AI safer. I think the details matter more than the declarations. It is easy to say a system is safe. It is harder to show that it behaves the way you claim, especially in the messy cases, and especially once it is out in the world.
 
-For 11 years I've worked in product marketing and product management, all in AI, at Microsoft and IBM. Today, at **Microsoft Foundry**, I work alongside the **Responsible AI PM team and the Office of Responsible AI**. I care about safety across product, research, and policy, and about the effects AI has off the platform, in people's actual lives.
-
-Most of what interests me lives in the gap between what an AI system is supposed to do and what it actually does. I try to close that gap by building small, testable tools, and by sharing them openly so other people can use them, check them, and make them better.
-
-I am still learning, and I would rather be useful than certain.
+For 11 years I've worked in product marketing and product management, all in AI, at Microsoft and IBM. Today, at **Microsoft Foundry**, I work alongside the Responsible AI PM team and the Office of Responsible AI. I care about safety across product, research, and policy, and about the effects AI has off the platform, in people's actual lives.
 
 ## 🛠️ Building
 - **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules. Meant to help people investigate and get oriented. It is not a compliance guarantee, and not legal advice.
