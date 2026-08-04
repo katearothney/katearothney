@@ -13,7 +13,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 
 
 **Product Marketing**
-- **coming soon**
+- _coming soon_
 
 ## 🤝 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katelyn%20Rothney-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katelynrothney/)
