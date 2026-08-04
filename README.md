@@ -13,4 +13,4 @@ For 11 years I've worked in product marketing and product management, all in AI,
 
 *All thoughts and projects here are my own.*
 
-<img width="300" height="217" alt="Untitled design" src="https://github.com/user-attachments/assets/e45ffe84-34c4-4925-a79d-1825971c3b0f" />
+<img width="4000" height="800" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/99bdd15c-cfd6-4aff-b301-02d91a779797" />
