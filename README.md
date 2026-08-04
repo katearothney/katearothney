@@ -12,3 +12,5 @@ For 11 years I've worked in product marketing and product management, all in AI,
 [![GitHub](https://img.shields.io/badge/GitHub-katearothney-181717?logo=github&logoColor=white)](https://github.com/katearothney)
 
 *All thoughts and projects here are my own.*
+
+<img width="1032" height="748" alt="Untitled design" src="https://github.com/user-attachments/assets/721f2528-4685-4b11-a80a-c3f1470bf3e1" />
