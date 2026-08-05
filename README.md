@@ -15,7 +15,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 **Product Marketing**
 - _coming soon_
 
-**Lovable Fun**
+**Lovable**
 - **[Knitting ornaments](https://knit-ornament-patterns.lovable.app)**
 
 ## 🤝 Find me
