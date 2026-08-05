@@ -16,7 +16,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 - _coming soon_
 
 **Lovable Fun**
-- **[Knitting ornaments] (https://knit-ornament-patterns.lovable.app)**
+- **[Knitting ornaments](https://knit-ornament-patterns.lovable.app)**
 
 ## 🤝 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Katelyn%20Rothney-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katelynrothney/)
