@@ -2,7 +2,7 @@ I'm Katelyn 🧙‍♀️
 
 I work on making AI safer. 
 
-At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is safe and beneficial across product, research, policy, and the real world. I care deeply about the effects AI has off the platform, in people's lives.
+At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is safe and beneficial across product, research, policy, and the real world. I care deeply about the effects AI has both on and off platform.
 
 ## 🛠️ What I'm building
 **AI Safety**
