@@ -11,6 +11,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 
 **Research**
 - **[Human Guardrails](https://github.com/katearothney/human-guardrails):** an evidence-graded exploration of how AI affects human capacities like thinking, memory, and judgment, and the guardrails that might help keep them intact.
+* **[Dating App Provenance](https://github.com/katearothney/dating-app-provenance)**: an evidence-graded case for detecting and labeling AI-generated photos, video, and voice on dating apps, built from a verified profile full of AI images and the research showing people cannot tell real faces from synthetic ones.
 
 
 **Product Marketing**
