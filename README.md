@@ -14,7 +14,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 
 - **[Dating App Provenance](https://github.com/katearothney/dating-app-provenance):** an evidence-graded case for detecting and labeling AI-generated photos, video, and voice on dating apps
 
-- **[Off-Platform Escalation](https://github.com/katearothney/off-platform-escalation):** a map of what happens between an AI system flagging a user for potential real-world harm and any handoff to public services, and how ten jurisdictions answer the same question.
+- **[Off-Platform Escalation](https://github.com/katearothney/off-platform-escalation):** a map of what happens between an AI system flagging a user for potential real-world harm and any handoff to public services
 
 
 **Product Marketing**
