@@ -9,8 +9,12 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 - **[AI Regulation Readiness](https://github.com/katearothney/ai-regulation-readiness)**: plain-English, testable readiness checks and an eval-plan tool for the EU AI Act and California's AI rules.
 
 **Research**
-- **[Human Guardrails](https://github.com/katearothney/human-guardrails):** an evidence-graded exploration of how AI affects human capacities like thinking, memory, and judgment, and the guardrails that might help keep them intact.
-* **[Dating App Provenance](https://github.com/katearothney/dating-app-provenance)**: an evidence-graded case for detecting and labeling AI-generated photos, video, and voice on dating apps
+
+*** [Human Guardrails](https://github.com/katearothney/human-guardrails):** an evidence-graded exploration of how AI affects human capacities like thinking, memory, and judgment, and the guardrails that might help keep them intact.
+
+*** [Dating App Provenance](https://github.com/katearothney/dating-app-provenance):** an evidence-graded case for detecting and labeling AI-generated photos, video, and voice on dating apps
+
+*** [Off-Platform Escalation](https://github.com/katearothney/off-platform-escalation):** a map of what happens between an AI system flagging a user for potential real-world harm and any handoff to public services, and how ten jurisdictions answer the same question.
 
 
 **Product Marketing**
