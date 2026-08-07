@@ -18,7 +18,7 @@ At **Microsoft Foundry** I work with the Responsible AI team to ensure AI is saf
 
 
 **Product Marketing**
-- _coming soon_
+- **[AI Governance & Safety Roundup](https://github.com/katearothney/ai-governance-safety-roundup)**: a reusable framework and a weekly newsletter that turn AI governance, safety, and market news into positioning, built for product marketers, PMs, and policy leads.
 
 **Lovable Projects**: **[Knitting ornaments](https://knit-ornament-patterns.lovable.app)**
 
